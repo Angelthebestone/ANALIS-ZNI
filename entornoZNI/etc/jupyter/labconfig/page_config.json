@@ -1,0 +1,8 @@
+{
+  "disabledExtensions": {
+    "jupyter-ai-chatgpt": true
+  },
+  "lockedExtensions": {
+    "jupyter-ai-chatgpt": true
+  }
+}
