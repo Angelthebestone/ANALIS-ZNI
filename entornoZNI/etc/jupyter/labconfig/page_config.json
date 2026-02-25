@@ -1,6 +1,8 @@
 {
   "disabledExtensions": {
-    "jupyter-ai-chatgpt": true
+    "jupyter-ai-chatgpt": true,
+    "notebook-intelligence-notebook-intelligence": true,
+    "jupyter-notebook-lab-extension": true
   },
   "lockedExtensions": {
     "jupyter-ai-chatgpt": true
